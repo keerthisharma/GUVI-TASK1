@@ -1,0 +1,18 @@
+2)WRITE A BLOG ON DIFFERENCE BETWEEN HTTP1.1 vs HTTP2
+    
+    1)HTTP2 is much faster and more reliable than HTTP1.
+    2)HTTP1 loads a single request for every TCP connection,
+While HTTP2 avoids network delay by using multiplexing.
+    3)HTTP is a network delay sensitive protocol in the sense 
+that if there is less network delay,then the page loads faster.
+
+
+3)WRITE  A BLOG ABOUT OBJECTS AND ITS INTERNAL REPRESENTATION IN JAVASCRIPT.
+
+    In Javascript, an object is a standalone entity,with properties and type.
+Compare it with a cup, for example.A cup is an object, with properties. A cup
+has a color , a design, weight, a material it is made of,etc. The same way,
+Javascript objects can have properties , which define their characteristics.
+ CREATING OBJECTS IN JAVASCRIPT:
+1)By object literal.
+2)By creating instance of object directly(using new keyword).
